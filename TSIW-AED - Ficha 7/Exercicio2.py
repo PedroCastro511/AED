@@ -1,6 +1,5 @@
 import os
 
-# Caminho do ficheiro de temperatura
 ficheiro = "./files/temperatura.txt"
 
 def lerFicheiro():

@@ -1,0 +1,93 @@
+ArgentinaHonduras
+BolíviaMéxico
+BrasilNicarágua
+ChilePanamá
+ColômbiaParaguai
+Costa RicaPerú
+EquadorUruguai
+El SalvadorVenezuela
+Guatemala
+AfeganistãoMaldivas
+BangladeshMongólia
+ButãoMianmar
+CambojaNepal
+ChinaPaquistão
+ÍndiaFilipinas
+IndonésiaSri Lanka
+LaosTailândia
+MalásiaVietname
+Cazaquistão
+Quirguizistão
+Tajiquistão
+Turquemenistão
+Usbequistão
+Iémen
+Irão
+Iraque
+AngolaMadagáscar
+BenímMalawi
+BotsuanaMali
+Burkina FasoMaurícias
+BurundiMauritânia
+CamarõesMoçambique
+Cabo VerdeNamíbia
+África do SulNíger
+ChadeNigéria
+ComoresRuanda
+Congo, República doSão Tomé e Príncipe
+Congo, República Democrática doSenegal
+JibutiSeicheles
+Guiné EquatorialSerra Leoa
+EritreiaSomália
+EtiópiaSudáfrica
+GabãoSul do Sudão
+GâmbiaSudão
+GanaSuazilândia
+Guiné-BissauTanzânia, República Unida do
+GuinéTogo
+Costa de marfilUganda, República do
+QuéniaZâmbia
+LesotoZimbabué, República do
+Libéria
+
+Caraíbas
+Antígua e Barbuda
+Baamas
+
+Barbados
+Belize
+Cuba
+Dominica
+República Domicana
+Granada
+Guiana
+Haiti
+Jamaica
+São Cristóvão e Nevis
+Santa Lucía
+São Vicente e Granadinas
+Suriname
+Trindade e Tobago
+Ilhas Cook
+Timor-Lestre
+Fiji
+Quiribáti
+Ilhas Marshall
+Micronésia
+Nauru
+Niue
+Palau
+Papua Nova Guiné
+Samoa
+Ilhas Salomão
+Tonga
+Tuvalu
+Vanuatu
+Aruba Montserrat
+AnguillaNova Caledónia
+BonairePitcairn
+CuraçauSanto Eustáquio
+Ilhas FalklandSão Martinho
+Polinésia FrancesaSão Pedro e Miquelão
+SabaIlhas Turcas e Caicos
+Maiote
